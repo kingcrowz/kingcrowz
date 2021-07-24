@@ -1,25 +1,12 @@
-### Hi there 👋
+### Hey there! I'm Zack Zaleski
 
-<!--
-**kingcrowz/kingcrowz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a full-stack web developer.
 
-Hey there! I'm Zack Zaleski
-
-I'm a full-stack web developer.
-
-Preferred Languages:
+## Preferred Languages:
 -Javascript
 
-Frameworks:
+## Frameworks:
 -Bootstrap
 -Materialize
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I've recently collaborated on https://github.com/lapshaffer/MovieReaderProject
