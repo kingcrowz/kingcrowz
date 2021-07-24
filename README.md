@@ -1,4 +1,4 @@
-### Hey there! I'm Zack Zaleski
+# Hey there! I'm Zack Zaleski
 
 ## I'm a full-stack web developer.
 
@@ -9,5 +9,5 @@
 -Bootstrap
 -Materialize
 
-# I've recently collaborated on 
+### I've recently collaborated on 
 -https://github.com/lapshaffer/MovieReaderProject
