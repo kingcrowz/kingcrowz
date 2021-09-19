@@ -9,7 +9,8 @@
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Framework-Bootstrap-yellowgreen" />  <img src="https://img.shields.io/badge/Framework-Materialize-red" />
 
 ### I've recently collaborated on 
--https://github.com/lapshaffer/MovieReaderProject
+* https://github.com/lapshaffer/MovieReaderProject
+* https://github.com/lapshaffer/SustainableReviewsProject
 
 ## Find Me
 Linkedin - https://www.linkedin.com/in/zachary-zaleski-366729218
