@@ -32,7 +32,8 @@
 Linkedin - https://www.linkedin.com/in/zachary-zaleski-366729218
 
 Portfolio - https://kingcrowz.github.io/Portfolio/
-**Currently working on a new portfolio page, will be added very soon once completed.  
+
+Note: Currently working on a new portfolio page, will be added very soon once completed.  
 
 # Email
 Any questions? Please email me at [kingcrowz@comcast.net](mailto:kingcrowz@comcast.net)
