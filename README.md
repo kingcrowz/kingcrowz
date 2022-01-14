@@ -31,9 +31,7 @@
 ## Find Me
 Linkedin - https://www.linkedin.com/in/zachary-zaleski-366729218
 
-Portfolio - https://kingcrowz.github.io/Portfolio/
-
-Note: Currently working on a new portfolio page, will be added very soon once completed.  
+React Portfolio - https://kingcrowz.github.io/React-Portfolio/ 
 
 # Email
 Any questions? Please email me at [kingcrowz@comcast.net](mailto:kingcrowz@comcast.net)
