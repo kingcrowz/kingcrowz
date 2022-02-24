@@ -1,9 +1,15 @@
 # Hey there! I'm Zack Zaleski
 
-![stats](https://github-readme-stats.vercel.app/api?username=Kingcrowz&hide=contribs&theme=bear&count_private=true)
-
-
 ## I'm a full-stack web developer.
+
+  <div align='center'>
+    <a href="https://github.com/kingcrowz/github-readme-stats ">
+      <img style='height: 22vh'; align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingcrowz&layout=compact&theme=dark" />
+    </a>
+    <a href="https://github.com/kingcrowz/">
+      <img style='height: 22vh'; align="center" src="https://github-readme-stats.vercel.app/api?username=kingcrowz&theme=dark" />
+    </a>
+  </div
 
 ### Front-end
 
