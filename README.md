@@ -9,7 +9,7 @@
     <a href="https://github.com/kingcrowz/">
       <img style='height: 22vh'; align="center" src="https://github-readme-stats.vercel.app/api?username=kingcrowz&theme=dark" />
     </a>
-  </div
+  </div>
 
 ### Front-end
 
