@@ -27,6 +27,10 @@
 ![express](https://img.shields.io/badge/Express.js-444444?style=for-the-badge&logo=express&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![c#](https://img.shields.io/badge/C#-4EA94B?style=for-the-badge&logo=C#&logoColor=white)
+![.NET](https://img.shields.io/badge/dotnet-4EA94B?style=for-the-badge&logo=dotnet&logoColor=white)
+
+
 
 ### I've recently collaborated on 
 * https://github.com/lapshaffer/MovieReaderProject
