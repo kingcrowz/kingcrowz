@@ -37,6 +37,7 @@
 Linkedin - https://www.linkedin.com/in/zachary-zaleski-366729218
 
 React Portfolio - https://kingcrowz.github.io/React-Portfolio/ 
-
+  *with Heroku removing its free tier, some of my portfolio projects need to be rehosted elsewhere.
+  
 # Email
 Any questions? Please email me at [kingcrowz@comcast.net](mailto:kingcrowz@comcast.net)
