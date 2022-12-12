@@ -36,6 +36,7 @@
 * https://github.com/lapshaffer/MovieReaderProject
 * https://github.com/lapshaffer/SustainableReviewsProject
 * https://github.com/jeffMullen/recipe-residence
+* https://github.com/Marcus-Johnson/NJInsurancePlatform/
 
 ## Find Me
 Linkedin - https://www.linkedin.com/in/zachary-zaleski-366729218
